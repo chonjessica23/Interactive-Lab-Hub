@@ -2,9 +2,9 @@
 
 _This project is to be done in teams of 2._
 
-**NAME OF BOTH COLLABORATOR(S) HERE**
+**Jessica Chon & Jenny Li**
 
-**THE MASTERWORK YOU DREW FROM THE HAT:**
+**Glow-in-the-dark Stars:**
 
 ---
 
