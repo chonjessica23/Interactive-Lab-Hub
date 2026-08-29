@@ -17,25 +17,27 @@ After doing some research and going off some of our own personal experiences wit
 Jenny and I both agreed that the core interaction for this light object is to recharge it occasionally through very convenient and seemingly indirect input. Typically, stars are already glowing when you receive them, so there's very little action needed to activate it. The interaction is just to sustain it with light. 
 
 **Strengths**: The stars became famous in the 80s/90s for being a cheap and convenient, yet aesthetic way to decorate a room, particularly for kids. For relatively low effort, children can be amused, decorate their room, or even feel a sense of peace and calm while being in the dark. 
-**Weaknesses**: Some weaknesses were that they can get boring pretty fast, since there's such little engagement needed. Also, it's inconvenient to have to "recharge" each star when they fade, since they often need sunlight. So one would have to either individually charge each star. Also, many complaints back then were that the stars ruined the walls with their adhesive backs.
+
+**Weaknesses**: Some weaknesses were that they can get boring pretty fast, since there's very little engagement needed. Also, it's inconvenient to have to "recharge" each star when they fade, since they often need sunlight, so one would have to individually charge each star. Also, many complaints back then were that the stars ruined the walls with their adhesive backs.
 
 ## Part A. Plan
 **Setting**: We imagine this in either small children's bedrooms, or pre-k classrooms where kids take naps.
-**Players**: Aside from the children being the main users, we believe parents or teachers to also be there. Most likely supervising the children or observing the interactions.
-**Activity**: When the star is "working" properly, it's giving off a gentle glow for the users/kids to look at and admire. But when the star needs to be recharged, it starts flickering, signaling the kids it needs to make a wish to make the star shine bright again. 
+**Players**: Aside from the children being the main users, we imagine parents or teachers also being present. Most likely supervising the children or observing the interactions.
+**Activity**: When the star is working properly, it's giving off a gentle glow for the users/kids to look at and admire. But when the star needs to be recharged, it starts flickering, signaling the kids it needs to make a wish to make the star shine bright again. 
 **Goals**: Children are trying to keep the light as bright as possible, while parents or teachers offer gentle guidance, such as reminding kids the stars are dimming or reminding them how to recharge the star.
 
 <img width="445" height="695" alt="Screenshot 2026-08-29 at 4 55 09 PM" src="https://github.com/user-attachments/assets/a09445fb-f877-4e88-a8bf-a0b190977445" />
 
-**Feedback**: We were unable to decide upon our project until outside of class, so we were unable to receive feedback for the storyboards. But we aim to get some more in the next session. 
+**Feedback**: We were unable to decide upon our project until outside of class, so we were unable to receive feedback for the storyboards. But we aim to get some more in the upcoming session. 
 
 ## Part B. Act out the Interaction
 
-After completing the storyboard, we acted it out and overall it went very smoothly and followed our plan. The only thing to note was that while acting out the interaction, we realized we needed more visual feedback to let users know when the stars were in a charging mode. After this realization, we decided that the stars would change to a different color (green or blue) to address this problem. 
+After completing the storyboard, we acted it out and overall it went very smoothly and followed our plan. Though while acting out the interaction, we realized we needed more direct and visual feedback to let users know when the stars were in a charging mode. After this realization, we decided that the stars would change to a different color (green or blue) to address this problem. 
 
 ## Part C. Prototype the Light (light first!)
 
-While using the Tinkerbelle program, we came up with 4 different states for the stars:
+While using the Tinkerbell program, we came up with 4 different states for the stars:
+
  1. Fully charged- a bright yellow, but not too obnoxious or harsh to look at
  2. Low battery- this would be a very dim, almost gray-ish yellow phase that would gently flicker, mimicking a dying light
  3. Charging- the stars would turn a non-yellow color to inform users that the stars are ready to listen to the wish
@@ -51,11 +53,11 @@ https://github.com/user-attachments/assets/80fe6593-4f33-403e-ae41-386828eb92c0
 
 ## Part E. (optional) Costume the Device
 
-Initially, we did film the video without adding the post-it stars, or making the phone look more like a star. But we found that it was harder to capture what we were envisioning with the storyboard. Adding the post-its and cut out star made the intention of our ideas a lot more understandbale. 
+Initially, we did film the video without adding the post-it stars or making the phone look more like a star. But we found that it was harder to capture what we were envisioning with the storyboard. Adding the post-its and cut out star made the intention of our idea much more understandable. 
 <img width="768" height="1024" alt="2E15CFB3-81BD-4340-A5BF-B0D77B1F7625_1_105_c" src="https://github.com/user-attachments/assets/15545810-8a44-4f3a-9f9c-543fb3edd02c" />
 <img width="768" height="1024" alt="4E360122-1F8F-4672-A54B-5222FFA52EC0_1_105_c" src="https://github.com/user-attachments/assets/83fa7cab-97b9-4f6d-b7f4-6a6c2939052a" />
 
-For the actual stars, we plan on 3D printing stars that hold lights, and can be taped with command tape for cleaner, easier setup.
+For the actual stars, we plan on 3D printing stars that hold small lights and can be taped with command tape for easier setup.
 
 ## Part F. Record
 
