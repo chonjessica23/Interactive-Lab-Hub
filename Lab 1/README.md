@@ -67,8 +67,35 @@ https://github.com/user-attachments/assets/746dd9b1-f86e-48aa-85f5-d75a19559881
 
 
 ---
+**Part 2 — ReMastering the light**
+**Feedback from Other Groups**
+1. Lamiah Khan & Rawisara Chairat (https://github.com/khanlamiah019/Interactive-Lab-Hub/tree/Fall2026/Lab%201) 
+They enjoyed the creativity of light up the stars interaction and agreed that adding the post-its helped clarify the entire scenario well. Lamiah noted that it'd be "nice to expand on what happens when the interaction ends", especially given that this project is intended for children. More specifically, she thought it'd be nice to see what happens after a wish is made.
+ 
+2. Shenye Wang & Bowei Huang (https://github.com/sw2486-hub/Interactive-Lab-Hub/blob/Fall2026/Lab%201/README.md 
+Utilizing the green light as feedback for the user was a "nice touch" because it signaled to the user when the interaction was successfully completed. Their feedback also said that adding more engagement with the glow-in-the-dark stars would be more entertaining. They were curious about what would happen if the star wasn't able to process the wish.
+ 
+3. Yujing Zhou, Youssef Hassan (https://github.com/jUSTbEarOCk/Interactive-Lab-Hub/tree/Fall2026/Lab%201)
+Their feedback was to perhaps add more interactive moments, such as adding movement when a wish was made. But overall, the interaction would be entertaining for children.
+ 
+**Our Revisions**
+The feedback from the groups was essentially:
+ 1) adding more engagement with the stars is an improvement and
+ 2) more feedback from the interactions with the star would help avoid confusion or increase engagement. 
 
+Jenny and I decided to review our video to see what points made the groups above come up with that feedback and where else we could improve. We concluded that there were two major points of interaction: initiating the charging mode and completing the charging. 
 
+To improve the charging initiation, we decided to add sound on top of the blue color change so that it was more noticeable when the stars were processing the wish. We also brainstormed adding more animations when the charging mode was initiated, similar to the way Amazon Alexa lights up when you say "Alexa". However, we weren't sure how to modify the TinkerBelle app to execute this for the video. 
+
+For charge completion mode, we also added sound for when the star relit, but made sure to distinguish the sounds from each other to avoid confusion by changing the tones. Jenny and I agreed to keep the reactions very minimal and simple, since we believe the appeal of the glow-in-the-dark stars is the simplicity, subtlety, and calm nature of the product. Also, since this product is meant for children, more "exciting" interactions would be overstimulating for them. 
+
+<img width="477" height="712" alt="Screenshot 2026-09-06 at 6 17 11 PM" src="https://github.com/user-attachments/assets/507dc782-249d-4aa5-8453-d195ff1e0443" />
+
+Some of the other groups' videos were very immersive because of the extra props or scenery they added to their video setting. Since this was so helpful in our understanding of their products, we also added more scenes and made the video setting more detailed. We made the bedroom environment clearer with added blankets, pillows, and more clearly drawn stars on the wall. Additionally, we included a "one month later" moment to make the interaction more-closely mimic a real-interaction. This was so users would understand that the star has faded over time, similar to real glow-in-the-dark stars.
+
+We refilmed the video with these adjustments, which can be seen in the video below:
+
+https://github.com/user-attachments/assets/7976cf6d-9b78-4001-9baf-a05ae8ba84b4
 
 *Assignment lineage: this lab merges "Staging Interaction" (Interactive Lab Hub)
 with "Recreating the Masters" (Interaction Design Studio, Profs. Scott Minneman &
