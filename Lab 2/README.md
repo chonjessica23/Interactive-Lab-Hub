@@ -194,13 +194,12 @@ Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/lates
 
 **MY WORK**
 After referencing the files described above, I was able to show the current time and date onto the raspberry pi, as shown below. 
+
 <img width="531" height="331" alt="Screenshot 2026-09-13 at 5 21 57 PM" src="https://github.com/user-attachments/assets/0fbe54a9-9c79-4944-804f-22464a149b76" />
 
 <img width="524" height="323" alt="Screenshot 2026-09-13 at 5 21 44 PM" src="https://github.com/user-attachments/assets/ed43bbf1-5e3c-40b7-9da9-386db8869ad2" />
 
-<img width="568" height="201" alt="Screenshot 2026-09-13 at 5 21 49 PM" src="https://github.com/user-attachments/assets/5ab81e61-fe6a-4a1d-9ca8-fdb13d588843" /><img width="529" height="292" alt="Screenshot 2026-09-13 at 5 23 15 PM" src="https://github.com/user-attachments/assets/e7c7b6cc-058b-474d-b4ad-59f985700380" />
-<img width="538" height="656" alt="Screenshot 2026-09-13 at 5 23 30 PM" src="https://github.com/user-attachments/assets/dd69c4fa-a83c-400d-bb17-128c0893bad2" />
-
+<img width="568" height="201" alt="Screenshot 2026-09-13 at 5 21 49 PM" src="https://github.com/user-attachments/assets/5ab81e61-fe6a-4a1d-9ca8-fdb13d588843" 
 
 ## Part E. Read Part 2. Sketch and brainstorm further interactions and features you would like for your clock.
 
@@ -213,8 +212,11 @@ We strongly discourage literal digital or analog clock display: Be creative.
 ** Insert ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf)), storyboards for your ideas **
 **MY BRAINSTORMING**
 I generally have a very consistent eating/hunger schedule so I thought it'd be fun to use that as a point-of-reference for time telling. I brainstormed the interaction, as shown in the pictures below. Essentially, if I want to see what time it is, I rate my hunger on thee device with the 12-key touch sensor. Based on how hungry I am, the device is able to estimate when my next meal is, which is an indirect way of letting me know the time is since I regularly eat at the same times each day. 
+
 <img width="529" height="292" alt="Screenshot 2026-09-13 at 5 23 15 PM" src="https://github.com/user-attachments/assets/467175bf-aadb-4bd5-aac8-0b0005752ac4" />
+
 The rough sketch below illustrate an instance where I'd use this device, most likely when I can't access my phone or have forgotten my watch. 
+
 <img width="538" height="656" alt="Screenshot 2026-09-13 at 5 23 30 PM" src="https://github.com/user-attachments/assets/adf29569-ad87-4d90-af6a-40c89661101e" />
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
