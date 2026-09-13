@@ -158,6 +158,15 @@ You can look in `image.py` for an example of how to display an image on the scre
 
 \*\*\***Include a picture of your own Raspberry Pi displaying the piscreen.service with your unique MAC address. Additionally, please provide another picture showing the successful completion of the screen test.**\*\*\*
 
+I was able to properly set up my raspberry pi, and received the following MAC address
+<img width="543" height="513" alt="Screenshot 2026-09-13 at 5 19 23 PM" src="https://github.com/user-attachments/assets/1fe30c92-ce97-4029-9f20-8ec8c2538c65" />
+
+After setting everything up, I successfully implemented the screen test in my terminal, changing the color to pink when I pressed the button. 
+
+<img width="624" height="62" alt="Screenshot 2026-09-13 at 4 26 11 PM" src="https://github.com/user-attachments/assets/fa2bf895-239c-4159-ad68-c963959f324a" />
+
+<img width="545" height="572" alt="Screenshot 2026-09-13 at 5 18 58 PM" src="https://github.com/user-attachments/assets/149fdf58-482e-4d41-b284-39560cfabf76" />
+
 
 ## Part D. 
 ### Set up the Display Clock Demo
@@ -183,6 +192,16 @@ Option 3. A nowadays often preferred method is to use Microsoft [VS code to remo
 
 Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/latest) you can even setup a VS Code coding environment hosted on your raspberry pi and code through a web browser on your tablet or smartphone! 
 
+**MY WORK**
+After referencing the files described above, I was able to show the current time and date onto the raspberry pi, as shown below. 
+<img width="531" height="331" alt="Screenshot 2026-09-13 at 5 21 57 PM" src="https://github.com/user-attachments/assets/0fbe54a9-9c79-4944-804f-22464a149b76" />
+
+<img width="524" height="323" alt="Screenshot 2026-09-13 at 5 21 44 PM" src="https://github.com/user-attachments/assets/ed43bbf1-5e3c-40b7-9da9-386db8869ad2" />
+
+<img width="568" height="201" alt="Screenshot 2026-09-13 at 5 21 49 PM" src="https://github.com/user-attachments/assets/5ab81e61-fe6a-4a1d-9ca8-fdb13d588843" /><img width="529" height="292" alt="Screenshot 2026-09-13 at 5 23 15 PM" src="https://github.com/user-attachments/assets/e7c7b6cc-058b-474d-b4ad-59f985700380" />
+<img width="538" height="656" alt="Screenshot 2026-09-13 at 5 23 30 PM" src="https://github.com/user-attachments/assets/dd69c4fa-a83c-400d-bb17-128c0893bad2" />
+
+
 ## Part E. Read Part 2. Sketch and brainstorm further interactions and features you would like for your clock.
 
 One potential source of ideas might be thinking about other clocks and timekeeping devices for inspiration.
@@ -191,10 +210,12 @@ Another might be novel units of time. How do you measure a year? [In daylights? 
 
 We strongly discourage literal digital or analog clock display: Be creative.
 
-
 ** Insert ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf)), storyboards for your ideas **
-
-
+**MY BRAINSTORMING**
+I generally have a very consistent eating/hunger schedule so I thought it'd be fun to use that as a point-of-reference for time telling. I brainstormed the interaction, as shown in the pictures below. Essentially, if I want to see what time it is, I rate my hunger on thee device with the 12-key touch sensor. Based on how hungry I am, the device is able to estimate when my next meal is, which is an indirect way of letting me know the time is since I regularly eat at the same times each day. 
+<img width="529" height="292" alt="Screenshot 2026-09-13 at 5 23 15 PM" src="https://github.com/user-attachments/assets/467175bf-aadb-4bd5-aac8-0b0005752ac4" />
+The rough sketch below illustrate an instance where I'd use this device, most likely when I can't access my phone or have forgotten my watch. 
+<img width="538" height="656" alt="Screenshot 2026-09-13 at 5 23 30 PM" src="https://github.com/user-attachments/assets/adf29569-ad87-4d90-af6a-40c89661101e" />
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
 
