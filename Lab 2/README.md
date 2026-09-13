@@ -193,13 +193,14 @@ Option 3. A nowadays often preferred method is to use Microsoft [VS code to remo
 Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/latest) you can even setup a VS Code coding environment hosted on your raspberry pi and code through a web browser on your tablet or smartphone! 
 
 **MY WORK**
+
 After referencing the files described above, I was able to show the current time and date onto the raspberry pi, as shown below. 
 
 <img width="531" height="331" alt="Screenshot 2026-09-13 at 5 21 57 PM" src="https://github.com/user-attachments/assets/0fbe54a9-9c79-4944-804f-22464a149b76" />
 
 <img width="524" height="323" alt="Screenshot 2026-09-13 at 5 21 44 PM" src="https://github.com/user-attachments/assets/ed43bbf1-5e3c-40b7-9da9-386db8869ad2" />
 
-<img width="568" height="201" alt="Screenshot 2026-09-13 at 5 21 49 PM" src="https://github.com/user-attachments/assets/5ab81e61-fe6a-4a1d-9ca8-fdb13d588843" 
+<img width="568" height="201" alt="Screenshot 2026-09-13 at 5 21 49 PM" src="https://github.com/user-attachments/assets/5ab81e61-fe6a-4a1d-9ca8-fdb13d588843"/> 
 
 ## Part E. Read Part 2. Sketch and brainstorm further interactions and features you would like for your clock.
 
@@ -210,7 +211,9 @@ Another might be novel units of time. How do you measure a year? [In daylights? 
 We strongly discourage literal digital or analog clock display: Be creative.
 
 ** Insert ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf)), storyboards for your ideas **
+
 **MY BRAINSTORMING**
+
 I generally have a very consistent eating/hunger schedule so I thought it'd be fun to use that as a point-of-reference for time telling. I brainstormed the interaction, as shown in the pictures below. Essentially, if I want to see what time it is, I rate my hunger on thee device with the 12-key touch sensor. Based on how hungry I am, the device is able to estimate when my next meal is, which is an indirect way of letting me know the time is since I regularly eat at the same times each day. 
 
 <img width="529" height="292" alt="Screenshot 2026-09-13 at 5 23 15 PM" src="https://github.com/user-attachments/assets/467175bf-aadb-4bd5-aac8-0b0005752ac4" />
