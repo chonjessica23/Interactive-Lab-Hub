@@ -224,6 +224,13 @@ The rough sketch below illustrate an instance where I'd use this device, most li
 
 **Put the names of the people you gave feedback to here. (Even better, add links to their repos here!)**
 
+Jenny Li - https://github.com/jianingli189/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md
+
+Shifeng Hong - https://github.com/mado0512/Interactive-Lab-Hub/edit/Fall2026/Lab%202/README.md
+
+Pallavi Khana - https://github.com/pk633-cu/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md
+
+
 # Lab 2 Part 2
 
 ## Prep 
@@ -232,6 +239,14 @@ The rough sketch below illustrate an instance where I'd use this device, most li
 
 2. Look at and give feedback on the Part E. for at least 3 other people in the class and get 3 people to comment on your Part E!)
 **Put the feedback for your ideas here.**
+Jenny Li - https://github.com/jianingli189/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md
+ "I love this way of measuring time by hunger! I think it's a philosophy of measuring your time by yourself, instead of by some rules or laws set up by nature or society. An interesting way to consider is that, maybe there are more interesting way to choose the level of your hunger than numbers, like, how much rice you wanna put in your bowl? How many chicken legs you wanna pick up? I think this kind of interaction will make your clock even more interesting and interactive."
+
+Shifeng Hong - https://github.com/mado0512/Interactive-Lab-Hub/edit/Fall2026/Lab%202/README.md
+"Love the connection with personal background, this could be a great project to explore how can one convery the subjective feeling of hungriness to a third person who might not have this subjective feeling of fullness vs hungriness. For example, make the reading go blur, or go wacky when it is close to eating time (to convey that you are REALLY HUNGRY)"
+
+Pallavi Khana - https://github.com/pk633-cu/Interactive-Lab-Hub/blob/Fall2026/Lab%202/README.md
+"I actually don't get hungry much and have to remind myself to eat. So I think it's a really nice idea to have a customizable clock and set "alarms" specifically for your own work day. Being able to get more bio signals would be nice so you could get more optimal eating times. But I think it'd be good for people who forget to eat."
 
 ## Update your Lab Hub
 
@@ -242,10 +257,14 @@ The rough sketch below illustrate an instance where I'd use this device, most li
 Start small, pick just one element of your overall idea, just to show you have a handle on the code and components.
 
 \*\*\***Put a copy of your code in your Lab 2 Github repo.**\*\*\*
+Link here as well: https://github.com/chonjessica23/Interactive-Lab-Hub/blob/Fall2026/Lab%202/barebones_mod.py 
 
 ## Make a short video of your modified barebones PiClock
+Below is a video of the modified PiClock. Given my new project direction, I just wanted to play around with timing and image/text displays. So, I made it so that once it reached a specific time, after 30 seconds, a line of text appeared. After 30 more seconds passed, the text was able to disappear. 
 
 \*\*\***Take a video of your barely modified PiClock.**\*\*\*
+
+https://github.com/user-attachments/assets/3d80eff1-ce7b-42d0-a73b-7518e28a46f2
 
 After you edit and work on the scripts for Lab 2, the files should be upload back to your own GitHub repo! You can push to your personal github repo by adding the files here, commiting and pushing.
 
@@ -262,12 +281,15 @@ After that, Git will ask you to login to your GitHub account to push the updates
 Do take advantage of having done the previous iteration to refine and simplify your design.
 
 ** Insert any updates ideas, sketches, [Verplank diagrams](https://ccrma.stanford.edu/courses/250a-fall-2004/IDSketchbok.pdf))!, storyboards for your ideas **
+Based on the feedback, I definitely revised my initial idea a bit. Pallavi's comment about using this type of clock as a reminder for individuals who forget to eat, so I decided to get rid of the rating my hunger input since other user's wouldn't be able to utilize that form of interaction. From Jenny's feedback, I decided it would be much simpler and more intuitive for users to understand the flow of time via food with images. I really liked her input of going on how many chicken legs, or grains of rice there are to quantify time. I didn't want that representation of time to be so direct though. I wanted to maintain the personal aspect that Shifeng appreciated, so I decided to instead "build a meal". That way it's implicitly still a clock meant for me since the finished meal is still set to when I eat. Overall, I'd summarize that the project shifted to a much more adaptable way to keep time for others, rather than solely be tailored to me. Below is a sketch of my new plan:
 
+<img width="460" height="718" alt="Screenshot 2026-09-20 at 10 31 46 PM" src="https://github.com/user-attachments/assets/2491e532-355a-437a-b7a3-7dbe04c16811" />
 
 \*\*\***Put a copy of your code in your Lab 2 Github repo.**\*\*\*
+Link to code here as well: 
 
 \*\*\***Take a video of your PiClock.**\*\*\*
-
+The clock goes by real time, but for the sake of the demo, you can see how different phases of the food clock with a button clock. 
 
 As always, make sure you document contributions and ideas from others (and AI) explicitly in your writeup.
 
