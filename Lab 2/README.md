@@ -293,9 +293,13 @@ Based on the feedback, I definitely revised my initial idea a bit. Pallavi's com
 <img width="460" height="718" alt="Screenshot 2026-09-20 at 10 31 46 PM" src="https://github.com/user-attachments/assets/2491e532-355a-437a-b7a3-7dbe04c16811" />
 
 \*\*\***Put a copy of your code in your Lab 2 Github repo.**\*\*\*
-Link to code here as well: 
+
+Link to code here as well: https://github.com/chonjessica23/Interactive-Lab-Hub/blob/Fall2026/Lab%202/foodclock.py 
 
 \*\*\***Take a video of your PiClock.**\*\*\*
+
+https://github.com/user-attachments/assets/283b5c89-03b9-4fd6-8be7-e9cb258e3c30
+
 The clock goes by real time, but for the sake of the demo, you can see how different phases of the food clock with a button clock. 
 
 As always, make sure you document contributions and ideas from others (and AI) explicitly in your writeup.
